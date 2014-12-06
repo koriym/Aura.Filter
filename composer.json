@@ -3,9 +3,11 @@
     "type": "aura-package",
     "description": "The Aura Filter package provides tools to validate and sanitize data objects and arrays.",
     "keywords": [
-        "filter",
-        "validate",
-        "sanitize"
+        "filter", 
+        "validate", 
+        "sanitize", 
+        "validator", 
+        "validation"
     ],
     "homepage": "http://auraphp.com/Aura.Filter",
     "license": "BSD-2-Clause",
